@@ -1,0 +1,11 @@
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\bin\Debug\ProgramRestore.exe.config
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\bin\Debug\ProgramRestore.exe
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\bin\Debug\ProgramRestore.pdb
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.AssemblyReference.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.SuggestedBindingRedirects.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.Form1.resources
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.Properties.Resources.resources
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.GenerateResource.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.CoreCompileInputs.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.exe
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\SatışProgramı\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.pdb
